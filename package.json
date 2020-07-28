@@ -1,0 +1,54 @@
+{
+  "_from": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+  "_id": "pelican@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/pelican",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+    "rawSpec": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+    "saveSpec": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+    "fetchSpec": "https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git#d63319c917125af5c777b55cb96f18a656f2fd72",
+  "_spec": "git+https://oliakaoil@bitbucket.org/oliakaoil/pelicanjs.git",
+  "_where": "/Users/shinmc/Documents/GitHub/layerframe/sfb-discovery/webapp",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Oliver Gould",
+      "email": "oliver.leon.gould@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "html-entities": "~1.1.2",
+    "string": "~3.1.1"
+  },
+  "deprecated": false,
+  "description": "HTML Form API for NodeJS",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "pelican.js"
+  ],
+  "gitHead": "",
+  "homepage": "",
+  "license": "",
+  "name": "pelican",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
